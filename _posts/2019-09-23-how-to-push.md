@@ -1,12 +1,13 @@
 ---
 layout: post
 title:  "How to push"
-date:   2019-09-23 21:00:07
+date:   2019年 9月24日 火曜日 05時49分56秒 JST
 categories: Default
 tags: git
 comments: 1
 ---
 # トラブル解消
+date:   2019-09-23 21:00:07
 
 ```bash
 >bash
