@@ -6,7 +6,7 @@ categories: Default
 tags: git
 comments: 1
 ---
-# トラブル解消
+## トラブル解消だよね
 date:   2019-09-23 21:00:07
 
 ```bash
