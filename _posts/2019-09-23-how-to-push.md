@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to push"
-date:   2019-09-24 06:29:58
+date:   2019-09-24 06:29:58 +8:00
 categories: Default
 tags: git
 comments: 1
