@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "How to push"
-date:   2019年 9月24日 火曜日 05時49分56秒 JST
+date:   2019-09-24 10:40:03
 categories: Default
 tags: git
 comments: 1
 ---
 ## トラブル解消だよね
-date:   2019-09-23 21:00:07
+pushしようとすると[rejected]となる場合、pull(merge)してみる。
 
 ```bash
 801> git push
