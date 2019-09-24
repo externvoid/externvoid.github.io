@@ -68,13 +68,13 @@ UIGraphicsEndImageContext()
 こうすりゃ、画像がこうなる。image2に線を引いて、image 1を引っ繰り返して、貼り付け(draw)すれば下図の様になる。
 
 作製: 2019/09/19Th
-![flipImage](image/flipImage.png =300x300)
+![flipImage](/image/flipImage.png =300x300)
 
 これで行けるはずなんだが。
 
 [画像をリサイズ](https://gist.github.com/uupaa/f77d2bcf4dc7a294d109)
 
-<img src="image/flipImage.png" alt="flipImage" width="33%"  />
+<img src="/image/flipImage.png" alt="flipImage" width="33%"  />
 
 ## gitコマンド
 
