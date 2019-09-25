@@ -22,8 +22,7 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 806> git pull
 fatal: refusing to merge unrelated histories
 
-807> git merge --allow-unrelated-his
-tories origin/master
+807> git merge --allow-unrelated-histories origin/master
 Auto-merging _config.yml
 CONFLICT (add/add): Merge conflict in _config.yml
 Automatic merge failed; fix conflicts and then commit the result.
