@@ -6,7 +6,7 @@ categories: iOS
 tags: Swift UIImage
 comments: 1
 ---
-## 座標変換、画像の回転はどうやる？
+### 座標変換、画像の回転はどうやる？
 
 以下はPlaygroundで動かす事が出来るコード。
 
